@@ -1,7 +1,7 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" MasterPageFile="~/Site.Master" CodeBehind="FirstPage.aspx.cs" Inherits="BookManagementSystem.Web.FirstPage" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
-    <link rel="stylesheet" href="./Asset/CSS/firstpage.css" type="text/css" />
+   
     <main>
         <div class="bookdetails">
             <div class="input-group">
